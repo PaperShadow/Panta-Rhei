@@ -12,7 +12,7 @@
   - DoubleEmergencyOxygenTankFilled
   - DoubleEmergencyNitrogenTankFilled
   - DoubleEmergencyWaterVaporTankFilled
-  - MedkitFilled
+  - Gauze
   - LunchboxGenericFilledRandom
   - CrayonBrush
   - CrayonMagic
@@ -52,6 +52,29 @@
   - HairBrush
   - ClothingMaskMuzzle
   - ClothingMaskMuzzleBasket
+  - PerfumeApple
+  - PerfumeBlackTea
+  - PerfumeBlueberry
+  - PerfumeCinnamon
+  - PerfumeFlowers
+  - PerfumeHoney
+  - PerfumeLemonZest
+  - PerfumePine
+  - PerfumeCologneFancy
+  - PerfumeCologneCheap
+  - PerfumeCologneCedarwood
+  - PerfumeCologneLeather
+  - PerfumeCologneGrass
+  - LipStickMakeupCloth
+  - LipStickRed
+  - LipStickBlue
+  - LipStickGreen
+  - LipStickYellow
+  - LipStickOrange
+  - LipStickPurple
+  - LipStickPink
+  - LipStickLightBlue
+  - LipStickBlack
 
 - type: loadoutGroup
   id: SexToys
